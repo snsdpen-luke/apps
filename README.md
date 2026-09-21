@@ -3,7 +3,9 @@
 2026-09-20 に作成したが、同じ役割のリポジトリ（kyouiku）が既にあったため、こちらは使わないことにした。
 公開アプリの置き場は kyouiku。GitHub Pages はこのリポジトリでは停止済み。
 
+2026-09-21 に GitHub 側で archive した（読み取り専用。push できない）。
 **ただし public のまま残っているので、下の規定は生きている。**
+復活させるなら `gh repo unarchive snsdpen-luke/apps`。
 
 ## このリポジトリは完全な公開領域
 
